@@ -463,7 +463,7 @@ elif page == "📈 Model Info":
 st.markdown("---")
 st.markdown("""
 <div style='text-align: center'>
-    <p>Credit Wise © 2024 | Loan Approval Prediction System</p>
+    <p>CrediFlow © 2026 | Loan Approval Prediction System</p>
     <p>Built with Streamlit & Machine Learning</p>
 </div>
 """, unsafe_allow_html=True)
